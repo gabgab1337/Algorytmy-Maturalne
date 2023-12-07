@@ -3,7 +3,7 @@
 
 **REPOZYTORIUM JEST OBECNIE W BUDOWIE, NOWE ALGORYTMY SĄ DODAWANE CO KILKA DNI! CIERPLIWOŚCI ;)**
 
-Każdy algorytm umieszczony w folderze `Algorytmy/` posiada wersję napisaną w pseudokodzie, C++, oraz Python (i wkrótce w Javie ;) ). Pseudokody znajdują się w plikach `.txt`, co do reszty to wiadomo.
+Każdy algorytm umieszczony w folderze `Algorytmy/` posiada wersję napisaną w pseudokodzie, C++, oraz Python (i wkrótce w Javie ;) ). Pseudokody znajdują się w plikach `.txt`, co do reszty to wiadomo. Pseudokod jest generowany automatycznie, więc mogą się zdarzać małe błędy.
 
 ### Algorytmy wymienione w informatorze maturalnym CKE
 *kursywą onaczyłem algorytmy które jeszcze nie zostały dodane*
