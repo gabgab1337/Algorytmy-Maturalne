@@ -1,1 +1,17 @@
-pseudokod
+Funkcja NWD_iter(a, b):
+    dopóki b nie jest równe 0:
+        temp = b
+        b = reszta z dzielenia a przez b
+        a = temp
+    zwróć a
+
+Funkcja NWD_rek(a, b):
+    jeśli b jest równe 0:
+        zwróć a
+    w przeciwnym razie:
+        zwróć NWD_rek(b, reszta z dzielenia a przez b)
+
+Funkcja NWW(a, b):
+    oblicz NWD = NWD_iter(a, b)
+    oblicz NWW = iloczyn a i b podzielony przez NWD
+    zwróć NWW
